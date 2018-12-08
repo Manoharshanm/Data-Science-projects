@@ -1,5 +1,6 @@
 
 Uber Supply - Demand Gap using EDA analysis
+*******************************************
 
 This case study analysis is about identifying the root cause of the problem Uber is facing in cancellation and non-availability of cars
 and recommend ways to improve the situation.
